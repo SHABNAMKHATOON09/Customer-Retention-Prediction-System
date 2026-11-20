@@ -1,0 +1,6 @@
+{
+  "name": "Customer Retention Prediction and Analytics System",
+  "description": "Python and Streamlit machine learning system for customer retention analytics, EDA, model training, churn prediction, and report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
